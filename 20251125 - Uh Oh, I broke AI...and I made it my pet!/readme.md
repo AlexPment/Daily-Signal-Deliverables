@@ -282,15 +282,6 @@ This is your “AI-vs-AI” lab: it shows how easily one model can learn to push
 
 ---
 
-## 📁 Other Files
-
-### `pyvenv.cfg`
-
-* Standard venv configuration file (created by Python’s `venv` module).
-* You don’t need to edit this; it’s just part of the virtual environment.
-
----
-
 ## 🧵 Suggested Journey for New Users
 
 1. **Read** the ForgeDAN paper (or at least the abstract + core design sections).
